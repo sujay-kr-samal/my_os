@@ -2,6 +2,10 @@
 ## A 64-bit Operating System from Scratch
 **Version 0.6  •  Phase 6 Complete**
 
+<p align="center">
+  <img src="screenshot.png" alt="MyOS Desktop Screenshot" width="700">
+</p>
+
 ---
 
 ## Overview
